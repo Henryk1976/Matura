@@ -15,7 +15,7 @@ namespace Matura
 
 
 
-            Console.WriteLine("Wpisz wynik z fizyki");
+            Console.WriteLine("Wpisz wynik z fizyki");  //z
             string z = Console.ReadLine();
 
 
